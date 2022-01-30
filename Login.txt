@@ -1,3 +1,4 @@
 Inicio Login
-ValidaÁ„o de e-mail do usu·rio
+Valida√ß√£o de e-mail do usu√°rio
+autentica√ß√£o
 Final Login
